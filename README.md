@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **an online platfrom like Linkedin for ethiopians (ethiogigs.com)**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, Figma,**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js,php, Laravel, React, React Native, Mysql .... or anything [here](https://github.com/benjiki/benjiki/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚽ Fun fact: **Cristiano Ronaldo and Lionel Messi have won the FIFA Ballon d'Or award so many times that they probably use it as a paperweight to keep their contracts from blowing away in the wind.**
 
  </div>
  
