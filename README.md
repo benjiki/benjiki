@@ -61,4 +61,4 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjiki)](https://github.com/benjiki/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
