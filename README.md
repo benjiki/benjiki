@@ -59,7 +59,4 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-[[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=benjiki&&show_icons=true&theme=dark)]
-                        
+
