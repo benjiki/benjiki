@@ -16,8 +16,6 @@
 
 💬 Ask me about **Node.js,php, Laravel, React, React Native, Mysql .... or anything [here](https://github.com/benjiki/benjiki/issues)**
 
-⚽ Fun fact: **Cristiano Ronaldo and Lionel Messi have won the FIFA Ballon d'Or award so many times that they probably use it as a paperweight to keep their contracts from blowing away in the wind.**
-
  </div>
  
 <div align="center"> 
