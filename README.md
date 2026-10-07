@@ -4,17 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Biniyam+Yoseph!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Ethiopia AddisAbeba</h3>
+<h3 align="center">Full-stack developer in Addis Ababa, Ethiopia</h3>
+
+<p align="center">I'm <b>Biniyam Yoseph</b>, a full-stack developer in Addis Ababa, Ethiopia, building <b>AddisFixer</b>, my home-services startup.<br/>Portfolio: <a href="https://portfolio-nine-bay-29.vercel.app">portfolio-nine-bay-29.vercel.app</a></p>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **an online platfrom like Linkedin for ethiopians (ethiogigs.com)**
+ 🔭 I’m currently building **AddisFixer**, my home-services startup. I work mostly on the back end (NestJS, PostgreSQL, Docker) and deploy to Ubuntu VPS servers.
  
- 🌱 I’m currently learning **Docker, Figma,**
+ 🌱 I’m currently learning **Rust (Axum, Diesel, Tauri)**
 
-💬 Ask me about **Node.js,php, Laravel, React, React Native, Mysql .... or anything [here](https://github.com/benjiki/benjiki/issues)**
+💬 Ask me about **Node.js, NestJS, php, Laravel, React, React Native, Mysql .... or anything [here](https://github.com/benjiki/benjiki/issues)**
 
  </div>
  
@@ -25,8 +27,11 @@
   <a href="https://linkedin.com/in/biniyam-yoseph-ba9132248" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://t.me/Benj3465" target="_blank">
+  <a href="https://t.me/Benj252000" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://portfolio-nine-bay-29.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0a6a49?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
     
 <!--   <a href="https://salesp07.github.io" target="_blank">
@@ -41,7 +46,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git" /><br>
     <img src="https://skillicons.dev/icons?i=laravel,php,dotnet,ps,postman,visualstudio,vscode,windows,yarn" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nextjs,mysql,postgres,postman,prisma,pnpm,npm,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,nestjs,mongodb,nextjs,mysql,postgres,postman,prisma,pnpm,npm,docker" /><br>
 </div>
 
 <br/>
